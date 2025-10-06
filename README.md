@@ -70,9 +70,31 @@ This repository serves as a **showcase** of the *Rongon Garden* website developm
 
 ## 👨‍💻 Developer
 
-**Developed by:** MD. Zihaul Islam Zihan   
-📧 Email: [Zihanislam231@gmail.com](#)  
-📍 Location: Bangladesh  
+<p align="center">
+  <img src="https://github.com/Zihan231.png" alt="Zihan231" width="120" style="border-radius:50%"/>
+</p>
+
+<p align="center">
+  <b>Rongon Garder</b> was created by <a href="https://github.com/Zihan231">Zihan231</a> with ❤️
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/Zihan231" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30px" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30px" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/zihan_islam_19" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Zihan231" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30px" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
